@@ -1,0 +1,5 @@
+![Tampilan Index](index.png)
+![Tampilan Register](register.png)
+![Tampilan Login](login.png)
+![Tampilan Dashboard](dashboard.png)
+![Tampilan dark](dark.png)
